@@ -1,0 +1,14 @@
+    funding_cycle county_name  ... :@computed_region_8ire_itmf :@computed_region_5edz_4hdv
+0       2014-2019      Albany  ...                         1.0                       573.0
+1       2014-2019      Albany  ...                         1.0                       573.0
+2       2014-2019      Albany  ...                         1.0                       573.0
+3       2014-2019      Albany  ...                         1.0                       573.0
+4       2014-2019      Albany  ...                         1.0                       573.0
+..            ...         ...  ...                         ...                         ...
+995     2014-2019      Cayuga  ...                         NaN                       660.0
+996     2014-2019      Cayuga  ...                         NaN                       660.0
+997     2014-2019      Cayuga  ...                         NaN                       660.0
+998     2014-2019      Cayuga  ...                         NaN                       660.0
+999     2014-2019      Cayuga  ...                         NaN                       660.0
+
+[1000 rows x 15 columns]
